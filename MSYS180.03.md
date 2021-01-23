@@ -2,7 +2,7 @@
 
 **Warning: Long post ahead**
 
-Welcome to MSYS 180.03/CSCI 284.13 aka Contempo. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
+Welcome to MSYS 180.03/CSCI 284.13 aka Cloud Computing. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
 
 If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/13ka81jHuAXmhpANwQOyphq1soBZqqEQJT1WmJFkMBMU): 
 
