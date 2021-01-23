@@ -13,6 +13,7 @@ Welcome to ISCS 30.20 aka Machine Learning Pipeline. In this course, you will ex
 If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/13ka81jHuAXmhpANwQOyphq1soBZqqEQJT1WmJFkMBMU): 
 
 # Prerequisites
+Please know how to program, preferably in Python.
 
 # Proper Netiquette
 
