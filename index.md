@@ -15,13 +15,7 @@ If you have trouble accessing the syllabus on AISIS, it is also accessible throu
 The syllabus contains some basic rules and regulations. Here are more detailed rules specific to my class:
 
 1. **Cyberbullying/online harassment will not be tolerated.** This includes but is not limited to, pestering others for their code, providing malware-infected files, or posting any inappropriate material on official class pages. **A violation of this policy will incur a *minimum* penalty of having a grade of 0 for the entire course.**
-2. **Do not share links outside this class.** This pertains mainly to the links we will use for synchronous sessions, but also includes links to exercises, lab solutions, etc. To show how serious this is, here are a series of photos taken from an Ateneo event that was Zoombombed because the link was shared publicly.
-
-**Warning: The photo below contains sensitive content with some people may find offensive or disturbing.**
-
-<a href="https://imgbox.com/2J7GduCT" target="_blank"><img src="https://thumbs2.imgbox.com/35/69/2J7GduCT_t.jpg" alt="image host"/></a>
-
-So again, be careful who you share links with.
+2. **Do not share links outside this class.** This pertains mainly to the links we will use for synchronous sessions, but also includes links to exercises, lab solutions, etc. There have already been incidents in the past where classes have been zoom-bombed, so please again, DO NOT SHARE LINKS.
 
 3. **Feel free to reach out to me if you have any questions.** I reply fastest via chat, but email is also okay. You can also ask questions anonymously via the AnonymityBot.
 
