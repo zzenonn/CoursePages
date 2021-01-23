@@ -1,3 +1,10 @@
+---
+layout: page
+title: Making a project site
+description: Info for MSYS180.03
+---
+
+
 # Welcome!
 
 **Warning: Long post ahead**
