@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Making a project site
+layout: post
+title: Welcome to MSYS180.03
 description: Info for MSYS180.03
 ---
 
