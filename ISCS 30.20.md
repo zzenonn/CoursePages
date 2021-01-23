@@ -1,14 +1,14 @@
 ---
-layout: page
-title: Making a project site
-description: Info for MSYS180.03
+layout: default
+title: Welcome to ISCS 30.20!
+description: Info for ISCS 30.20
 ---
 
 # Welcome!
 
 **Warning: Long post ahead**
 
-Welcome to ISCS 30.20. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
+Welcome to ISCS 30.20 aka Machine Learning Pipeline. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
 
 If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/13ka81jHuAXmhpANwQOyphq1soBZqqEQJT1WmJFkMBMU): 
 
