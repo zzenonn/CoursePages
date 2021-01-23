@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/zzenonn/MSYS180.03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Warning: Long post ahead**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to CSCI 112 aka CS 129.1 aka Contempo. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
 
-### Markdown
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSQZy8nvlGN10365U1fosVXOmtQ1N_i3VDAbFguHF_k-Uts3Y3msqL4RZLHeuFJi7Il15Rkjn76Fsro/pub?embedded=true" width=80% height=1500></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have trouble accessing the embedded syllabus, it is also accessible through this [link](https://docs.google.com/document/d/e/2PACX-1vSQZy8nvlGN10365U1fosVXOmtQ1N_i3VDAbFguHF_k-Uts3Y3msqL4RZLHeuFJi7Il15Rkjn76Fsro/pub): 
 
-```markdown
-Syntax highlighted code block
+# Prerequisites
 
-# Header 1
-## Header 2
-### Header 3
+**Please make sure you have already cleared a database class (122 or 24).** 
 
-- Bulleted
-- List
+Apart from that everything you need to learn to pass the course will be taught to you.
 
-1. Numbered
-2. List
+## Read the Readme Assignment
 
-**Bold** and _Italic_ and `Code` text
+To finish that assignment, make sure you complete the following tasks:
 
-[Link](url) and ![Image](src)
-```
+1. Join the class [Class Google Hangouts](https://hangouts.google.com/group/eJdWjZ3FY51r3pe77)
+2. Create an [AWS Educate](https://www.awseducate.com/PromotionSignup?regcode=F1GUY67E87DWMTO8XPZ4) **using your OBF email**. If you already have an existing AWS Educate account, you may use that and you **do not need to make a new account**.
+3. Make sure you also **update your Moodle profile** and include the email you used to make your Educate account as well as your preferred name.
+4. Complete the following [form](https://forms.gle/Hj9M5sG1zKDqPQrRA).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Proper Netiquette
 
-### Jekyll Themes
+The syllabus contains some basic rules and regulations. Here are more detailed rules specific to my class:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzenonn/MSYS180.03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. **Cyberbullying/online harassment will not be tolerated.** This includes but is not limited to, pestering others for their code, providing malware-infected files, or posting any inappropriate material on official class pages. **A violation of this policy will incur a *minimum* penalty of having a grade of 0 for the entire course.**
+2. **Do not share links outside this class.** This pertains mainly to the links we will use for synchronous sessions, but also includes links to exercises, lab solutions, etc. To show how serious this is, here are a series of photos taken from an Ateneo event that was Zoombombed because the link was shared publicly.
 
-### Support or Contact
+**Warning: The photo below contains sensitive content with some people may find offensive or disturbing.**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://imgbox.com/2J7GduCT" target="_blank"><img src="https://thumbs2.imgbox.com/35/69/2J7GduCT_t.jpg" alt="image host"/></a>
+
+So again, be careful who you share links with.
+
+3. **Feel free to reach out to me if you have any questions.** I reply fastest via chat, but email is also okay. For more complex questions, I highly recommend putting them on the [Contempo Wiki](https://moodle.ateneo.edu/mod/wiki/view.php?id=15046). I check the Wiki regularly for questions, and will answer them in more detail on the Wiki. At the same time, for participation points, **other students are free and encouraged to answer the questions of their peers**. This will contribute to your class participation grade.
+
+**P.S.** I *detest* it when students message or email with just "Can I ask a question?" and then wait for me to say yes.  This is what happens when you do that
+
+Student: "Can I ask a question?"
+Me three hours later when I have time: "Sure"
+Student three hours later: "Sir, I have a problem with my x and y and z"
+Me three hours later: "Ok this is how you fix it"
+
+![Can I ask a Question](https://admu-contempo.s3-ap-southeast-1.amazonaws.com/assets/CanIAskAQuestion.gif)
+
+**JUST. ASK. YOUR. QUESTION.** You can say you have a question, then follow it with your question, but you don't need my permission to ask.
+
+# Participation
+
+## Text-based Participation
+Participation in the wiki, discussion forums and other such activities will contribute positively to your participation grade. You are highly encouraged to participate as much as you can in order to share what you have learned and to learn from others. 
+
+## Synchronous Sessions
+Note that **majority of the class will be asynchronous**. Synchronous sessions will be there mainly to clarify instructions, address common questions, and track your progress. Sixty minutes are allotted for synchronous sessions, but from past experience, it may take less time, or more time depending on questions and concerns.
+
+Officially, synchronous sessions should be held according to the AISIS official schedule. By default, they will happen Th 8:00am-9:00am. At the same time, I know some people have difficulty with early mornings. **We will base the actual schedule on the survey results.**
+
+## Badges
+![Collect them all](https://miro.medium.com/max/1307/0*dJDQTI7yUCDStfIX)
+
+Your participation for the class will be measured in the form of badges. There are three types of badges, each correspond to a percentage of your participation grade.
+
+Gold Badge: 5 points
+
+Silver Badge: 3 points
+
+Bronze Badge: 1 point
+
+You can get a **maximum** of 20 points corresponding to a full 20% participation grade. If you earn badges beyond 20%, each badge will act as a bonus 1% to your class standing.
+
+## PLP
+Portable learning packets are available **upon request**. Email me your concern, and I will work with the SOSE team to provide you with the material that you need.
+
+## The Beadle
+The beadle will be given special participation grades. They will **not be required** (but still encouraged) to participate in discussion forums and the wiki. At the same time, the beadle will have their own tasks which will be the basis for their participation grade.
+
+### Beadle Requirements
+1. The beadle must have a stable internet connection.
+2. The beadle must have a computer and must have screen recording capability.
+3. The beadle must have a good relationship with the people in the class.
+
+### Beadle Responsibilities
+1. **Moderate the wiki**, discussions, forums, etc. If other students are too shy to ask questions, the beadle should be able to collect their questions and add it on the wiki (hence requirement 3).
+2. Unfortunately, as a teacher, there are some things I cannot demonstrate because I lack a student account. The beadle is then responsible for **some content creation** to demonstrate some activities for the class. This will definitely NOT be a regular occurrence.
+3. The beadle **MUST** be present in **ALL SYNCHRONOUS** activities. This includes synchronous classes and synchronous consultations. This is to comply with LS guidelines that all synchronous sessions must consist of at least three people.
+4. The beadle is to act as a **bridge between teacher and student**. If there is something students cannot or will not ask the teacher directly, they may do so through the beadle. As such, the beadle must also know how to keep their mouth shut and respect the privacy of their fellow student.
+
+Much trust and responsibility will be given to the beadle, at the same time, know that the recognition will be commensurate.
+
+# Tips for this Class
+
+1. If you are a first-time online learner, you may want to set up some **routines** for yourself. When do you plan to go through the course?  The worst possible answer is: "Whenever I feel like it!"
+
+Online courses require a regular schedule, so set specific and regular days and times for yourself. If you use an online tool like Google Calendar, it may help to schedule your course learning time there.
+
+For example: Every Monday from 8 am to 12 pm—or every Tuesday from 9 to 11 am and from  2 to 4 pm. 
+
+I suggest allotting two hours regularly. Every module is estimated to entail about 6 to 10 hours of work (that's about one entire day!). If you allot at least two half days every week, you should be able to complete the course in three to six weeks.
+
+2. **Learn to read documentation.**
+
+![Read the docs](https://i.redd.it/2z08tsdqms011.jpg)
+
+Stackoverflow, Reddit, and your classmates' code may all be sources of information, but nothing beats reading the documentation. A lot of the topics we will be covering will be new, not only to students, but even to people in the industry. Our single source of truth and primary source will be the official documentation.
+
+# Read the Readme Assignment
+
+If you haven't noticed, there is a [Read the Readme Assignment](https://moodle.ateneo.edu/mod/assign/view.php?id=15138) posted on Moodle. To complete that assignment, complete all the instructions in this Readme, mark it as complete (there should be a checkbox next to the activity) and submit the word "Yes" in the assignment.
+
+Congratulations! You've read your first Readme for this class!
+
+![Read the docs even more](https://img.devrant.com/devrant/rant/r_1096632_Zk451.jpg)
