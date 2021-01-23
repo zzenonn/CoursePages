@@ -1,10 +1,3 @@
----
-layout: post
-title: Welcome to MSYS180.03
-description: Info for MSYS180.03
----
-
-
 # Welcome!
 
 **Warning: Long post ahead**
