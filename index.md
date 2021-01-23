@@ -2,24 +2,11 @@
 
 **Warning: Long post ahead**
 
-Welcome to CSCI 112 aka CS 129.1 aka Contempo. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
+Welcome to MSYS 180.03/CSCI 284.13 aka Contempo. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
 
-If you have trouble accessing the embedded syllabus, it is also accessible through this [link](https://docs.google.com/document/d/e/2PACX-1vSQZy8nvlGN10365U1fosVXOmtQ1N_i3VDAbFguHF_k-Uts3Y3msqL4RZLHeuFJi7Il15Rkjn76Fsro/pub): 
+If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/13ka81jHuAXmhpANwQOyphq1soBZqqEQJT1WmJFkMBMU): 
 
 # Prerequisites
-
-**Please make sure you have already cleared a database class (122 or 24).** 
-
-Apart from that everything you need to learn to pass the course will be taught to you.
-
-## Read the Readme Assignment
-
-To finish that assignment, make sure you complete the following tasks:
-
-1. Join the class [Class Google Hangouts](https://hangouts.google.com/group/eJdWjZ3FY51r3pe77)
-2. Create an [AWS Educate](https://www.awseducate.com/PromotionSignup?regcode=F1GUY67E87DWMTO8XPZ4) **using your OBF email**. If you already have an existing AWS Educate account, you may use that and you **do not need to make a new account**.
-3. Make sure you also **update your Moodle profile** and include the email you used to make your Educate account as well as your preferred name.
-4. Complete the following [form](https://forms.gle/Hj9M5sG1zKDqPQrRA).
 
 # Proper Netiquette
 
@@ -34,7 +21,7 @@ The syllabus contains some basic rules and regulations. Here are more detailed r
 
 So again, be careful who you share links with.
 
-3. **Feel free to reach out to me if you have any questions.** I reply fastest via chat, but email is also okay. For more complex questions, I highly recommend putting them on the [Contempo Wiki](https://moodle.ateneo.edu/mod/wiki/view.php?id=15046). I check the Wiki regularly for questions, and will answer them in more detail on the Wiki. At the same time, for participation points, **other students are free and encouraged to answer the questions of their peers**. This will contribute to your class participation grade.
+3. **Feel free to reach out to me if you have any questions.** I reply fastest via chat, but email is also okay. You can also ask questions anonymously via the AnonymityBot.
 
 **P.S.** I *detest* it when students message or email with just "Can I ask a question?" and then wait for me to say yes.  This is what happens when you do that
 
@@ -49,32 +36,23 @@ Me three hours later: "Ok this is how you fix it"
 
 # Participation
 
-## Text-based Participation
-Participation in the wiki, discussion forums and other such activities will contribute positively to your participation grade. You are highly encouraged to participate as much as you can in order to share what you have learned and to learn from others. 
-
 ## Synchronous Sessions
-Note that **majority of the class will be asynchronous**. Synchronous sessions will be there mainly to clarify instructions, address common questions, and track your progress. Sixty minutes are allotted for synchronous sessions, but from past experience, it may take less time, or more time depending on questions and concerns.
+Note that **majority of the class will be asynchronous**. Synchronous sessions will be there mainly to clarify instructions, address common questions, and challenging topics and demonstrations. Sixty minutes are allotted for synchronous sessions on average, but it may take longer depending on the topic.
 
-Officially, synchronous sessions should be held according to the AISIS official schedule. By default, they will happen Th 8:00am-9:00am. At the same time, I know some people have difficulty with early mornings. **We will base the actual schedule on the survey results.**
+Officially, synchronous sessions should be held according to the AISIS official schedule. 
 
 ## Badges
 ![Collect them all](https://miro.medium.com/max/1307/0*dJDQTI7yUCDStfIX)
 
-Your participation for the class will be measured in the form of badges. There are three types of badges, each correspond to a percentage of your participation grade.
+Your participation for the class will be measured in the form of badges. There are two badges you can earn in your class. These badges are issued by the [Acclaim Platform](https://www.youracclaim.com/), an industry recognized system which can even be shared on LinkedIn
 
-Gold Badge: 5 points
-
-Silver Badge: 3 points
-
-Bronze Badge: 1 point
-
-You can get a **maximum** of 20 points corresponding to a full 20% participation grade. If you earn badges beyond 20%, each badge will act as a bonus 1% to your class standing.
+You can get a **maximum** of 20 points corresponding to a full 20% participation grade. The Cloud Practitioner Badge earns you 7.50% while the Architecting Badge is worth 12.50%.
 
 ## PLP
 Portable learning packets are available **upon request**. Email me your concern, and I will work with the SOSE team to provide you with the material that you need.
 
 ## The Beadle
-The beadle will be given special participation grades. They will **not be required** (but still encouraged) to participate in discussion forums and the wiki. At the same time, the beadle will have their own tasks which will be the basis for their participation grade.
+The beadle will be given special participation grades. They will **not be required** (but still encouraged) to earn the Cloud Practitioner Badge. At the same time, the beadle will have their own tasks which will be the basis for 7.50 participation grade.
 
 ### Beadle Requirements
 1. The beadle must have a stable internet connection.
@@ -82,8 +60,8 @@ The beadle will be given special participation grades. They will **not be requir
 3. The beadle must have a good relationship with the people in the class.
 
 ### Beadle Responsibilities
-1. **Moderate the wiki**, discussions, forums, etc. If other students are too shy to ask questions, the beadle should be able to collect their questions and add it on the wiki (hence requirement 3).
-2. Unfortunately, as a teacher, there are some things I cannot demonstrate because I lack a student account. The beadle is then responsible for **some content creation** to demonstrate some activities for the class. This will definitely NOT be a regular occurrence.
+1. **Document synchronous sessions**. The beadle must write minutes of the sync session, then send to the rest of the class via chat (hence requirement 3).
+2. Unfortunately, as a teacher, there are some things I cannot demonstrate because I lack a student account. The beadle is then responsible for **some content creation** to demonstrate some activities for the class. This will definitely NOT be a regular occurrence and may not even happen for this class.
 3. The beadle **MUST** be present in **ALL SYNCHRONOUS** activities. This includes synchronous classes and synchronous consultations. This is to comply with LS guidelines that all synchronous sessions must consist of at least three people.
 4. The beadle is to act as a **bridge between teacher and student**. If there is something students cannot or will not ask the teacher directly, they may do so through the beadle. As such, the beadle must also know how to keep their mouth shut and respect the privacy of their fellow student.
 
@@ -107,7 +85,7 @@ Stackoverflow, Reddit, and your classmates' code may all be sources of informati
 
 # Read the Readme Assignment
 
-If you haven't noticed, there is a [Read the Readme Assignment](https://moodle.ateneo.edu/mod/assign/view.php?id=15138) posted on Moodle. To complete that assignment, complete all the instructions in this Readme, mark it as complete (there should be a checkbox next to the activity) and submit the word "Yes" in the assignment.
+If you haven't noticed, there is a Read the Readme Assignment posted on Canvas. To complete that assignment, complete all the instructions in this Readme, and submit the word "Yes" in the assignment.
 
 Congratulations! You've read your first Readme for this class!
 
