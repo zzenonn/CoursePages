@@ -4,8 +4,6 @@
 
 Welcome to CSCI 112 aka CS 129.1 aka Contempo. In this course, you will explore different database technologies built for different purposes and use cases. The syllabus for the course should appear below.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSQZy8nvlGN10365U1fosVXOmtQ1N_i3VDAbFguHF_k-Uts3Y3msqL4RZLHeuFJi7Il15Rkjn76Fsro/pub?embedded=true" width=80% height=1500></iframe>
-
 If you have trouble accessing the embedded syllabus, it is also accessible through this [link](https://docs.google.com/document/d/e/2PACX-1vSQZy8nvlGN10365U1fosVXOmtQ1N_i3VDAbFguHF_k-Uts3Y3msqL4RZLHeuFJi7Il15Rkjn76Fsro/pub): 
 
 # Prerequisites
