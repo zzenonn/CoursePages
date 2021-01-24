@@ -13,6 +13,7 @@ Welcome to MSYS 180.03/CSCI 284.13 aka Cloud Computing. In this course, you will
 If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/13ka81jHuAXmhpANwQOyphq1soBZqqEQJT1WmJFkMBMU): 
 
 # Prerequisites
+Ideally, MIS 101, Information Systems Administration, Computer Architecture, and Operating Systems, but not necessary. 
 
 # Proper Netiquette
 
@@ -40,12 +41,19 @@ Note that **majority of the class will be asynchronous**. Synchronous sessions w
 
 Officially, synchronous sessions should be held according to the AISIS official schedule. 
 
+## Labs
+There will be two types of labs that you will see in the course: Guided Labs and Graded/Challenge Labs. The Guided Labs contribute to your participation grade and to earning the course badges. They may be submitted as many times as needed. The Challenge Labs contribute to your lab grade **and may only be submitted once per person.** On Canvas, Guided Labs are links while the Graded Labs are assignments.
+
 ## Badges
 ![Collect them all](https://miro.medium.com/max/1307/0*dJDQTI7yUCDStfIX)
 
-Your participation for the class will be measured in the form of badges. There are two badges you can earn in your class. These badges are issued by the [Acclaim Platform](https://www.youracclaim.com/), an industry recognized system which can even be shared on LinkedIn
+Your participation for the class will be measured in the form of badges. There are two badges you can earn in your class. These badges are issued by the [Acclaim Platform](https://www.youracclaim.com/), an industry recognized system which can even be shared on LinkedIn. This is an example of the badge you receive:
 
-You can get a **maximum** of 20 points corresponding to a full 20% participation grade. The Cloud Practitioner Badge earns you 7.50% while the Architecting Badge is worth 12.50%.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e42ffbbc-887d-4f0c-8bbd-0d30e226298d" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+You can click the badge to view more details.
+
+You can get a **maximum** of 20 points corresponding to a full 20% participation grade. The Cloud Foundations Badge earns you 7.50% while the Cloud Architecting Badge is worth 12.50%. If you are unable to achieve the badges, your participation grade will be based on the Cloud Foundations and Cloud Architecting Knowledge Checks, as well as the Cloud Architecting Guided Labs.
 
 ## PLP
 Portable learning packets are available **upon request**. Email me your concern, and I will work with the SOSE team to provide you with the material that you need.
@@ -55,13 +63,13 @@ The beadle will be given special participation grades. They will **not be requir
 
 ### Beadle Requirements
 1. The beadle must have a stable internet connection.
-2. The beadle must have a computer and must have screen recording capability.
+2. The beadle must have a computer.
 3. The beadle must have a good relationship with the people in the class.
 
 ### Beadle Responsibilities
-1. **Document synchronous sessions**. The beadle must write minutes of the sync session, then send to the rest of the class via chat (hence requirement 3).
+1. **Document synchronous sessions**. The beadle must write minutes of the sync session, then send to the rest of the class via chat (hence requirements 1 and 3).
 2. Unfortunately, as a teacher, there are some things I cannot demonstrate because I lack a student account. The beadle is then responsible for **some content creation** to demonstrate some activities for the class. This will definitely NOT be a regular occurrence and may not even happen for this class.
-3. The beadle **MUST** be present in **ALL SYNCHRONOUS** activities. This includes synchronous classes and synchronous consultations. This is to comply with LS guidelines that all synchronous sessions must consist of at least three people.
+3. The beadle **MUST** be present in **ALL SYNCHRONOUS** activities. This includes **BOTH** synchronous classes and synchronous consultations (as needed). This is to comply with LS guidelines that all synchronous sessions must consist of at least three people.
 4. The beadle is to act as a **bridge between teacher and student**. If there is something students cannot or will not ask the teacher directly, they may do so through the beadle. As such, the beadle must also know how to keep their mouth shut and respect the privacy of their fellow student.
 
 Much trust and responsibility will be given to the beadle, at the same time, know that the recognition will be commensurate.
