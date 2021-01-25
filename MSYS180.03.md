@@ -21,7 +21,7 @@ The syllabus contains some basic rules and regulations. Here are more detailed r
 
 1. **Cyberbullying/online harassment will not be tolerated.** This includes but is not limited to, pestering others for their code, providing malware-infected files, or posting any inappropriate material on official class pages. **A violation of this policy will incur a *minimum* penalty of having a grade of 0 for the entire course.**
 2. **Do not share links outside this class.** This pertains mainly to the links we will use for synchronous sessions, but also includes links to exercises, lab solutions, etc. There have already been incidents in the past where classes have been zoom-bombed, so please again, DO NOT SHARE LINKS.
-3. **Feel free to reach out to me if you have any questions.** I reply fastest via chat, but email is also okay. You can also ask questions anonymously via the AnonymityBot.
+3. **Feel free to reach out to me if you have any questions.** I reply fastest via [chat](https://chat.google.com/), but email is also okay. You can also ask questions anonymously via the AnonymityBot.
 
 **P.S.** I *detest* it when students message or email with just "Can I ask a question?" and then wait for me to say yes.  This is what happens when you do that
 
