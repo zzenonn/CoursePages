@@ -85,7 +85,7 @@ Online courses require a regular schedule, so set specific and regular days and 
 
 For example: Every Monday from 8 am to 12 pm—or every Tuesday from 9 to 11 am and from  2 to 4 pm. 
 
-I suggest allotting two hours regularly. Every module is estimated to entail about 6 to 10 hours of work (that's about one entire day!). If you allot at least two half days every week, you should be able to complete the course in three to six weeks.
+I suggest allotting two hours regularly. Some modules are estimated to entail about 6 to 10 hours of work (that's about one entire day!). If you allot at least two half days every week, you should be able to complete the course in three to six weeks.
 
 2. **Learn to read documentation.**
 
