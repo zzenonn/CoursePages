@@ -26,8 +26,11 @@ The syllabus contains some basic rules and regulations. Here are more detailed r
 **P.S.** I *detest* it when students message or email with just "Can I ask a question?" and then wait for me to say yes.  This is what happens when you do that
 
 Student: "Can I ask a question?"
+
 Me three hours later when I have time: "Sure"
+
 Student three hours later: "Sir, I have a problem with my x and y and z"
+
 Me three hours later: "Ok this is how you fix it"
 
 ![Can I ask a Question](https://admu-contempo.s3-ap-southeast-1.amazonaws.com/assets/CanIAskAQuestion.gif)
@@ -66,7 +69,7 @@ Stackoverflow, Reddit, and your classmates' code may all be sources of informati
 
 # Read the Readme Assignment
 
-If you haven't noticed, there is a Read the Readme Assignment posted on Canvas. To complete that assignment, complete all the instructions in this Readme, and submit the word "Yes" in the assignment.
+If you haven't noticed, there is a Read the Readme Assignment posted on Canvas. To complete that assignment, complete all the instructions in this Readme, **answer the course survey on canvas**, and submit the word "Yes" in the assignment.
 
 Congratulations! You've read your first Readme for this class!
 
