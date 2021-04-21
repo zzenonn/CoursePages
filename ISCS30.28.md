@@ -10,7 +10,7 @@ description: Info for ISCS 30.28
 
 Welcome to ISCS 30.28 aka CICD. In this course, you will implement an Continuous Integration and Deployment Pipeline.
 
-If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/1cGVKQiV1-4O7VUXeTNi9rC7TZLmruSDMSXeOKBqYKlk/): 
+If you have trouble accessing the syllabus on AISIS, it is also accessible through this [link](https://docs.google.com/document/d/1cQjcaqTV8f8aXcFX0R3a295ilhLSORJtU8ykMrU5C9I/edit?usp=sharing): 
 
 # Prerequisites
 You need to have an application to deploy.
